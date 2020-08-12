@@ -1,6 +1,6 @@
 # img-to-text
 
-#install
+# install
 Install the Python Library
 
 Install the Tesseract application
@@ -9,7 +9,7 @@ $ sudo apt-get update
 $ sudo apt-get install tesseract-ocr
 $ sudo apt-get install libtesseract-dev
 ```
-*Windows
+# Windows
 Download appication [here](https://github.com/UB-Mannheim/tesseract/wiki)
 
 Install OpenCV
